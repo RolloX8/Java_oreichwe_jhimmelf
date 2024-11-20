@@ -1,0 +1,15 @@
+1)
+Repository erstellt
+
+2)
+auf folgender Website nach IntelliJ gesucht, ausgewählt und .gitingore erstellen lassen.
+https://www.toptal.com/developers/gitignore/
+
+3)
+Im Repository neue Datei erstellt und den erstellten Inhalt der Website hineinkopiert
+
+4)
+IntelliJ öffnen
+Burgermenü -> VCS -> Git
+GitHub Account verlinkt
+Repository wurden angezeigt; Java_oreichwe_jhimmelf gecloned
