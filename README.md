@@ -1,3 +1,5 @@
 # Java_oreichwe_jhimmelf
 
-# Jonas Himmelfreundpointner
+Jonas Himmelfreundpointner 
+
+Oliver Reichweger
